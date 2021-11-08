@@ -92,9 +92,9 @@ html {
 
 
 /* #Main */
-#main {
+/* #main {
 
-}
+} */
 
 #header {
     height: 46px;
@@ -219,7 +219,7 @@ html {
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
-    background: url('assets/image/chicago.jpg') top center / cover no-repeat;
+    background: url('../image/chicago.jpg') top center / cover no-repeat;
     /* background-color: #333; */
 }
 
@@ -247,9 +247,9 @@ html {
 
 
 /* content */
-#content {
+/* #content {
 
-}
+} */
 
 
 .content-section {
@@ -417,9 +417,9 @@ contacnt section
 
 
 /* map section */
-.map-section {
+/* .map-section {
 
-}
+} */
 
 .map-section .map-img {
     width: 100%;
@@ -559,9 +559,9 @@ contacnt section
    color: #2196F3;
 }
 
-.modal-help{
+/* .modal-help{
 
-}
+} */
 
 
 /* animate cho modal */
